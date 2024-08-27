@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "test-tesseract"
+version = "0.1.0"
+description = ""
+authors = ["claireliang <claire.ty.liang@viewsonic.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.11"
+pillow = "^10.4.0"
+pytesseract = "^0.3.13"
+googletrans = "3.1.0a0"
+opencv-python = "^4.10.0.84"
+pandas = "^2.2.2"
+numpy = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
