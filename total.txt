@@ -43,4 +43,30 @@ Use how_are_you_blur_5.png by tesseract: 0.19928598403930664
 Use how_are_you_blur_3.png by tesseract: 0.2009117603302002 
 Use test_table_blur_3.png by tesseract: 0.4210479259490967 
 Use test_table_blur_5.png by tesseract: 0.3564600944519043 
+==============================2024-09-04 10:28:24.663289 =============== 
+Use physics_example_1.png by tesseract: 2.5996909141540527 
+Use physics_example_3.png by tesseract: 1.5942797660827637 
+Use physics_example_2.png by tesseract: 1.6249539852142334 
+Use resolution_sample2_7489_5126.jpg by tesseract: 5.57184100151062 
+Use statistics_example_1.png by tesseract: 1.113638162612915 
+Use statistics_example_2.png by tesseract: 1.0605218410491943 
+Use resolution_sample2_2400_1642.jpg by tesseract: 1.6434071063995361 
+Use resolution_sample2_1920_1314.jpg by tesseract: 1.6869151592254639 
+Use biology_example_1.png by tesseract: 1.4282498359680176 
+Use biology_example_2.png by tesseract: 0.34990906715393066 
+Use resolution_sample_640_1010.jpg by tesseract: 0.5709428787231445 
+Use biology_example_3.png by tesseract: 1.6509840488433838 
+Use history_example_2.png by tesseract: 1.641737937927246 
+Use test_table.png by tesseract: 0.8974218368530273 
+Use history_example_3.png by tesseract: 2.0874388217926025 
+Use history_example_1.png by tesseract: 1.0638329982757568 
+Use resolution_sample2_640_438.jpg by tesseract: 3.13238787651062 
+Use resolution_sample_1920_3031.jpg by tesseract: 1.0242390632629395 
+Use resolution_sample_2400_3789.jpg by tesseract: 2.0576210021972656 
+Use resolution_sample_4433_7000.jpg by tesseract: 6.490531921386719 
+Use how_are_you.png by tesseract: 0.30185413360595703 
+Use how_are_you_blur_5.png by tesseract: 0.30185389518737793 
+Use how_are_you_blur_3.png by tesseract: 0.31355905532836914 
+Use test_table_blur_3.png by tesseract: 0.7606611251831055 
+Use test_table_blur_5.png by tesseract: 0.5079281330108643 
 ==============================
